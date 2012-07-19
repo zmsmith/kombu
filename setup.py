@@ -128,7 +128,7 @@ if py_version[0:2] == (2, 5):
 
 setup(
     name='kombu',
-    version='2.2.6.ypt.a'],
+    version='2.2.6.ypt.a',
     description=meta['doc'],
     author=meta['author'],
     author_email=meta['contact'],
